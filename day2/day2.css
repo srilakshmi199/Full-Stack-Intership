@@ -1,0 +1,104 @@
+.imagcontainer{
+    background: url('https://i.postimg.cc/76kStDSv/food-wallpaper.png');
+   background-repeat: no-repeat; 
+   background-size:cover;
+   border-style: solid;
+   border-color: white;
+}
+body{
+    margin: auto;
+}
+.logo{
+    text-align: center;
+    font-size:90px;
+    color: red;
+    font-weight: bold;
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    border-radius: 80%;
+}
+.heading{
+    text-align: center;
+    font-size: 36px; 
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.locationselector{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-color: white;
+}
+.locationdropdown{
+    width:250px;
+    height:60px;
+    border-radius: 0%;
+    font-size: 20px;
+    border: none;
+}
+.locationdropdown:first-child
+{
+    color: red;
+}
+.restaurantsinput{
+    border: none;
+    width:370px;
+    height:60px;
+    border-radius:0%;
+    font-size: 20px;
+    margin-left:5px
+}
+.quicksearchcontainer{
+    margin-left:115px;
+    margin-top:50px
+}
+.quicksearchheading{
+    text-align: left;
+    color: #192f60;
+    font-size:30px;
+    line-height: 1.5;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.quicksearchsubheading{
+    text-align: left;
+    color: gray;
+    line-height:1.5;
+    letter-spacing: normal;
+    font-size:18px;
+    font-weight: normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+}
+.tilecontainer{
+    box-shadow: 0 3px 6px black;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width:400px;
+    height: 150px;
+    background-color: white;
+    display: inline-block;
+    
+}
+.tilecomponent{
+    width:50%;
+    float: left;
+    
+}
+.tilecomponentheading{
+    text-align: left;
+    color:#192f60;
+    font-size:18px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.titlecomponentsubheading{
+    text-align: left;
+    color:gray;
+    font-size:14px
+}

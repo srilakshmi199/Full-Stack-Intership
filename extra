@@ -1,0 +1,246 @@
+https://code.visualstudio.com/
+https://github.com/Aakashdeveloper
+https://github.com/
+https://www.youtube.com/developerfunnel
+https://www.pivotaltracker.com/n/projects/2444925/stories/172475739
+https://t.me/joinchat/MMTIthaJAziP3wIo9t01Ig
+https://htmlcolorcodes.com/color-picker/
+https://developerfunnel.herokuapp.com/restaurants
+/////////////////////
+User Stories
+////////////////
+Jira
+Rally
+Pivotaltracker
+
+
+PSD> PhotoShop Design
+UI > User Interface
+UX > User Experince
+
+////////////////////////////
+Html HTML5
+favicon
+
+inline element > they come in same line
+block level > they start from new line
+
+//////////////////
+inline
+extrnal file
+style tag
+
+>>>>>>>
+Target Element
+
+> TagName    h1,a,b,u,p,img
+> className  "when we target multiple elemets"
+> Id         "When we target any unique element"
+
+
+//////////
+primary > blue
+success > green
+info    > skyblue
+warning > orange
+danger  > Red
+
+
+///////Grids////
+12 Grid
+xs xtra small
+sm small 
+md medium
+lg large
+
+col-
+col-sm
+col-md
+col-lg
+col-xl
+
+ <ul>
+                <li>Apple</li>
+                <li>Mango</li>
+                <li>Banana</li>
+            </ul>
+            <ol>
+                <li>Apple</li>
+                <li>Mango</li>
+                <li>Banana</li>
+            </ol>
+
+///////
+5,11> JavaScript
+12,18,19,25> Node+Mongo+Express
+26,1,2,8,9,15,16> React
+
+
+if else
+tenerory
+Switch
+Date
+let/const
+function 
+loop
+map
+filter
+Json
+Import/Export
+object
+classes
+/////////
+
+npm
+package.Json
+fs
+https
+making static api
+Express
+create api with Express
+MongoDb Basic
+Api with mongodb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////First Time////
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/testapp.git
+git push -u origin master
+
+/////All Next Time////
+git add .
+git commit -m "first commit"
+git push
+
+
+
+/////
+Params  pass after / in url
+QueryParams after ? (?name="hiii")
+
+package.Json
+> metadata 
+> packages
+> command to run
+
+
+////////
+Step to create package.Json
+//////////////////////////
+**NodeJs Must be installed in system
+> open cmd and navigate to the folder
+> npm init
+> Answer all questions
+> type 'yes'
+
+
+
+////////
+Step to install packages
+//////////////////////////
+> open cmd and navigate to the folder
+> npm i package_name/ npm install package_name
+
+>npm i zone.js
+
+//To Install all packages in one go
+npm i 
+
+///////
+CRUD
+///////
+create   > POST  (insert)
+Read     > GET
+update   > PUT
+delete   > 
+
+
+
+///////////
+nodemon
+
+>>>>Local Dependency 
+    >Local to the folder
+>>>>Global Dependency
+   >Local to te system
+   > does not installl in any folder
+   > we need admin acceess to install global Dependency
+   > only use for setup and run the application
+   > They dont get add to package.Json
+   > they will install in node_module folder of application
+
+
+   ////Step to install global Dependency
+   > Run cmd as admin
+   > npm i -g nodemon
+
+   npm start
+   npm run dev
+
+
+   https://www.mongodb.com/
+////////
+default port of mongodb
+27017
+
+
+>>>>>>>>>>
+Step to start
+<<<<<<<<<<
+> copy the path till bin folder C:\Program Files\MongoDB\Server\3.4\bin
+> naviagte to the path using cmd
+> do this is 2 different command prompt
+> In first cmd type >>> mongod
+   this will start the mongodb server on port 27017
+> In Second cmd type >>> mongo
+
+
+/////////////////////////////
+SQl                    NoSql
+Structured          Non-Structured
+database            database
+table               collection
+row                 document
+
+RollNo | Hindi | English| Computer
+ 1     |  80   |        |
+ 2     |       |   80   |
+ 3     |       |        | 80
+
+
+JSON
+NoSql
+[
+    {
+        RollNo:1,
+        hindi:80
+    },
+    {
+        RollNo:2,
+        English:80,
+        Computer:80
+    },
+    {
+        RollNo:3,
+        computer:80
+    }
+]
+
+
+
+MERN
+Mongo Express React Node
